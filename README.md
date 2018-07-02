@@ -1,0 +1,2 @@
+# Firstgoprogram
+Simple go program
